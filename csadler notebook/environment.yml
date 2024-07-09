@@ -5,3 +5,4 @@ dependencies:
   - python=3.8.*
   - snowbooks=1.25.*
   - streamlit=1.22.0
+  - mpmath=1.3.0
